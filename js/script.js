@@ -27,8 +27,7 @@ function backToTop() {
 
 
 
-// When the user clicks the button, push notification on the bottom right of the document
-// INCOMPLETE: Only works with the first button
+
 
 var toastTrigger = document.getElementById('liveToastBtn')
 var toastLiveExample = document.getElementById('liveToast')
